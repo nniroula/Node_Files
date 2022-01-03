@@ -22,3 +22,8 @@ if(filePath.slice(0, 4) === 'http'){
 else{
     step1Data.cat(filePath);
 }
+
+// do this so that you can use this code in another file
+// module.exports = {
+
+// }
